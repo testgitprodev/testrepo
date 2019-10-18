@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="newtablee" max_length="40" name="sn_testapp_newtablee" type="collection"/>
+    <element label="newtablee1" max_length="40" name="sn_testapp_newtablee" type="collection"/>
 </database>
