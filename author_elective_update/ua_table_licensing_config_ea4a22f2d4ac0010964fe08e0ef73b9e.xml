@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>sn_testapp_table2</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 08:57:10</sys_created_on>
+        <sys_id>ea4a22f2d4ac0010964fe08e0ef73b9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_testapp_table2</sys_name>
+        <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
+        <sys_update_name>ua_table_licensing_config_ea4a22f2d4ac0010964fe08e0ef73b9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 08:57:10</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="testApp">1d46b437db6b3300fcc3785f36961904</application>
+        <file_path/>
+        <instance_id>e8c62d26dbe08c90bc3aff00ba961933</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>ua_table_licensing_config_ea4a22f2d4ac0010964fe08e0ef73b9e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>sn_testapp_table2</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-21 08:57:10</sys_created_on><sys_id>ea4a22f2d4ac0010964fe08e0ef73b9e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_testapp_table2</sys_name><sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package><sys_policy/><sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope><sys_update_name>ua_table_licensing_config_ea4a22f2d4ac0010964fe08e0ef73b9e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-21 08:57:10</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-325517671</payload_hash>
+        <record_name>sn_testapp_table2</record_name>
+        <reverted_from/>
+        <source>b7fb7d1265200010fcf860c9e5f8b112</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2019-10-19 16:17:56</sys_created_on>
+        <sys_id>774aa2f2d4ac0010964fe08e0ef73b9e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>16de4cfa3200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Table Subscription Configuration</type>
+        <update_guid>374aa2f22eac0010cd3f018583bf719e</update_guid>
+        <update_guid_history>374aa2f22eac0010cd3f018583bf719e:-325517671</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 08:58:48</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>32fa169d22b846488dd5c11e59aa7171</sys_id>
+        <sys_metadata>ea4a22f2d4ac0010964fe08e0ef73b9e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_testapp_table2</sys_name>
+        <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
+        <sys_scope_delete display_value="">0130984bdeb24b30b2338a4480617fc4</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_ea4a22f2d4ac0010964fe08e0ef73b9e</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_ea4a22f2d4ac0010964fe08e0ef73b9e">774aa2f2d4ac0010964fe08e0ef73b9e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 08:58:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

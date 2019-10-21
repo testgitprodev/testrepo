@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-18 09:07:18</sys_created_on>
-        <sys_id>0adfcf79d5600010f877932f0f47aafa</sys_id>
+        <sys_id>ba4a22f2d4ac0010964fe08e0ef73ba3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sn_testapp_newtablee</sys_name>
         <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
         <sys_policy/>
         <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
-        <sys_update_name>sys_dictionary_sn_testapp_newtablee_null</sys_update_name>
+        <sys_update_name>sys_dictionary_sn_testapp_newtablee_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-18 09:07:18</sys_updated_on>
+        <sys_updated_on>2019-10-21 08:57:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
