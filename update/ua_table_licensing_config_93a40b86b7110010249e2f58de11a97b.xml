@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>sn_testapp_table2</name>
+        <name>sn_testapp_table1</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-10-21 09:00:16</sys_created_on>
-        <sys_id>100b6676d4ac0010964fe08e0ef73b74</sys_id>
+        <sys_created_on>2019-10-21 08:59:01</sys_created_on>
+        <sys_id>93a40b86b7110010249e2f58de11a97b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_testapp_table2</sys_name>
+        <sys_name>sn_testapp_table1</sys_name>
         <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
         <sys_policy/>
         <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
-        <sys_update_name>ua_table_licensing_config_100b6676d4ac0010964fe08e0ef73b74</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_93a40b86b7110010249e2f58de11a97b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-21 09:00:16</sys_updated_on>
+        <sys_updated_on>2019-10-21 08:59:01</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

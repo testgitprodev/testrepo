@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="EmpInfo" max_length="40" name="sn_testapp_empinfo" type="collection">
+    <element label="EmpInfod" max_length="40" name="sn_testapp_empinfo" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true" label="EmpName" max_length="40" name="u_string_1" type="string"/>
     </element>
 </database>

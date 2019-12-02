@@ -5,6 +5,7 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on sn_testapp_table1</description>
+        <express_security>false</express_security>
         <name>sn_testapp_table1</name>
         <operation display_value="create">create</operation>
         <script/>

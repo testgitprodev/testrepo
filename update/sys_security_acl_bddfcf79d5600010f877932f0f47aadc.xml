@@ -5,6 +5,7 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on sn_testapp_newtablee</description>
+        <express_security>false</express_security>
         <name>sn_testapp_newtablee</name>
         <operation display_value="read">read</operation>
         <script/>
