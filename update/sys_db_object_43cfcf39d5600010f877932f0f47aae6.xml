@@ -11,7 +11,7 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>newtabledsd</label>
+        <label>newtable</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>sn_testapp_newtablee</name>
         <number_ref/>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-18 09:07:17</sys_created_on>
         <sys_id>43cfcf39d5600010f877932f0f47aae6</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>newtabledsd</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>newtable</sys_name>
         <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
         <sys_policy/>
         <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
         <sys_update_name>sys_db_object_43cfcf39d5600010f877932f0f47aae6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-03 05:56:53</sys_updated_on>
+        <sys_updated_on>2019-12-03 05:58:16</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="sn_testapp.newtablee_user" name="sn_testapp.newtablee_user">b1dfcf79d5600010f877932f0f47aa83</user_role>
         <ws_access>true</ws_access>
