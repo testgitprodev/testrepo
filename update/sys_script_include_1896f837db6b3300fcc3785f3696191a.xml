@@ -10,7 +10,7 @@
         <script><![CDATA[var newSi = Class.create();
 
 //test
-
+//sdfdfdf
 
 //check
 newSi.prototype = {
@@ -25,13 +25,13 @@ newSi.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-04 10:02:53</sys_created_on>
         <sys_id>1896f837db6b3300fcc3785f3696191a</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>newSi</sys_name>
         <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
         <sys_update_name>sys_script_include_1896f837db6b3300fcc3785f3696191a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-05 08:45:08</sys_updated_on>
+        <sys_updated_on>2020-01-08 06:35:26</sys_updated_on>
     </sys_script_include>
 </record_update>
