@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-05 09:12:08</sys_created_on>
-        <sys_id>76a40b86b7110010249e2f58de11a912</sys_id>
+        <sys_id>d67eb8181b9a40103e34fc468d4bcb73</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>EmpName</sys_name>
         <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
         <sys_update_name>sys_dictionary_sn_testapp_empinfo_u_string_1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-25 09:44:05</sys_updated_on>
+        <sys_updated_on>2020-01-08 06:31:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
