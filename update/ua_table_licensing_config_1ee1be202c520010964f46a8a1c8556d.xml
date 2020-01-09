@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-18 09:07:18</sys_created_on>
-        <sys_id>7d818dd0db1e4010e8e452e4dc961908</sys_id>
+        <sys_id>1ee1be202c520010964f46a8a1c8556d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sn_testapp_newtablee</sys_name>
         <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
         <sys_policy/>
         <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
-        <sys_update_name>ua_table_licensing_config_7d818dd0db1e4010e8e452e4dc961908</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_1ee1be202c520010964f46a8a1c8556d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-10-18 09:07:18</sys_updated_on>
     </ua_table_licensing_config>
