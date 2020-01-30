@@ -18,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>br1</name>
+        <name>br112</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -38,15 +38,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2c42fa1f68220010f877b543c3ed389c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>br1</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>br112</sys_name>
         <sys_overrides/>
         <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
         <sys_policy/>
         <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
         <sys_update_name>sys_script_2c42fa1f68220010f877b543c3ed389c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-30 08:55:09</sys_updated_on>
+        <sys_updated_on>2020-01-30 09:00:00</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

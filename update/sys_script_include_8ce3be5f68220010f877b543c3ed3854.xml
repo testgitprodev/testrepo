@@ -2,36 +2,29 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>sn_testapp.newSiiii</api_name>
+        <api_name>sn_testapp.testSIIIII</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
-        <name>newSiiii</name>
-        <script><![CDATA[var newSiiii = Class.create();
-
-//test
-//sdfdfdf
-
-//check
-newSiiii.prototype = {
+        <name>testSIIIII</name>
+        <script><![CDATA[var testSIIIII = Class.create();
+testSIIIII.prototype = {
     initialize: function() {
     },
 
- 
-	
-//verify
+    type: 'testSIIIII'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-04 10:02:53</sys_created_on>
-        <sys_id>1896f837db6b3300fcc3785f3696191a</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>newSiiii</sys_name>
+        <sys_created_on>2020-01-30 09:01:45</sys_created_on>
+        <sys_id>8ce3be5f68220010f877b543c3ed3854</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testSIIIII</sys_name>
         <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
-        <sys_update_name>sys_script_include_1896f837db6b3300fcc3785f3696191a</sys_update_name>
+        <sys_update_name>sys_script_include_8ce3be5f68220010f877b543c3ed3854</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-30 09:00:39</sys_updated_on>
+        <sys_updated_on>2020-01-30 09:01:45</sys_updated_on>
     </sys_script_include>
 </record_update>
