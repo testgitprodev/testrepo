@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-21 08:59:00</sys_created_on>
-        <sys_id>298e56d368220010f877b543c3ed38db</sys_id>
+        <sys_id>3524887745ea0010f87746fbd7fbbfc6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>sn_testapp_table1</sys_name>
         <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
         <sys_update_name>sys_dictionary_sn_testapp_table1_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-30 07:28:19</sys_updated_on>
+        <sys_updated_on>2020-01-31 09:30:49</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
