@@ -3,6 +3,7 @@
         <active>true</active>
         <application display_value="testApp">ff56b437db6b3300fcc3785f36961951</application>
         <assessment/>
+        <content_page/>
         <device_type/>
         <filter table="incident">active=true^assigned_toISEMPTY^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
