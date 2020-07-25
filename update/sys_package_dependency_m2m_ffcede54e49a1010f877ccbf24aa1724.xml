@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Asset Management" source="com.snc.asset_management">8f6ce6eb7cc210100c1d9a6e52b12c14</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 09:43:12</sys_created_on>
+        <sys_id>ffcede54e49a1010f877ccbf24aa1724</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 09:43:12</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

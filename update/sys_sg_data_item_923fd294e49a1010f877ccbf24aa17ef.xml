@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>new</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-25 09:45:01</sys_created_on>
+        <sys_id>923fd294e49a1010f877ccbf24aa17ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new</sys_name>
+        <sys_package display_value="testApp" source="sn_testapp">1d46b437db6b3300fcc3785f36961904</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testApp">1d46b437db6b3300fcc3785f36961904</sys_scope>
+        <sys_update_name>sys_sg_data_item_923fd294e49a1010f877ccbf24aa17ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-25 09:45:01</sys_updated_on>
+        <table>cmdb_ci_appl_dot_net</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=923fd294e49a1010f877ccbf24aa17ef"/>
+</record_update>
